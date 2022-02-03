@@ -182,6 +182,12 @@ part manually.
 
 It's worth doing a Docker tutorial to understand all of this better. I actually took some notes from a YouTube tutorial I worked through [here](https://github.com/ABZ-Aaron/DockerOverview).
 
+Once the image is built, this command will need to be run:
+
+```bash
+docker run -p 8080:8080 airflow-basic
+```
+
 ## Airflow UI
 
 <img src="https://github.com/ABZ-Aaron/AirflowOverview/blob/b838e9f801b4d783bb5993e881f45542b1bc9115/images/Screenshot%202022-02-03%20at%2015.57.56.png" width=60% height=60%>
