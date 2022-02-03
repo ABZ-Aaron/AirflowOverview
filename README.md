@@ -1,4 +1,4 @@
-# Apache Airflow - Hands on Guide
+# Apache Airflow - Hands on Guide
 
 To reinforce my Airflow knowledge which I'm currently developing as part of a Data Engineering bootcamp, I have decided to work through a [Udemy course](https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow). I'll add notes and progress here. Maybe it'll come in handy for some people!
 
