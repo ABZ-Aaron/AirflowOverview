@@ -184,7 +184,7 @@ It's worth doing a Docker tutorial to understand all of this better. I actually 
 
 ## Airflow UI
 
-<img src="https://github.com/ABZ-Aaron/DataEngineerZoomCamp/blob/master/images/arch_1.jpg" width=60% height=60%>
+<img src="https://github.com/ABZ-Aaron/AirflowOverview/blob/b838e9f801b4d783bb5993e881f45542b1bc9115/images/Screenshot%202022-02-03%20at%2015.57.56.png" width=60% height=60%>
 
 Here we can see a list of example DAGs. Each DAG has tags, which we can filter by.
 
